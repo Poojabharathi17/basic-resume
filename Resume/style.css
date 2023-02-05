@@ -1,0 +1,24 @@
+body{
+    margin: 0px 40px 0px 40px;
+}
+
+.head h1{
+    text-align: center;
+}
+.head img{
+    float: right;
+    position: absolute;
+     top: 50px;
+    right: 40px;
+}
+.head{
+    background-color: rgb(255, 230, 224);
+}
+table, th, td {
+    border:1px solid black;
+  }
+
+h3{
+    background-color: rgb(255, 230, 224);
+    width: 100%;
+}
